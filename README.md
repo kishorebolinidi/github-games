@@ -1,3 +1,9 @@
+This is sample test from github-games..
+
+
+###Game instructions
+1. Changes testing12345.....
+
 ## Welcome to GitHub Games
 
 A project based learning activity for people who are getting started with Git and GitHub.
